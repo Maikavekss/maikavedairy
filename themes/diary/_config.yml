@@ -1,0 +1,252 @@
+# Header
+
+title: "Dairy cooperative"
+menu:
+  Home:
+    path: /
+    subtitle: 'This is the homepage'
+  About:
+    path: /about
+    subtitle: 'This is about us'
+  Downloads: 
+    path: /downloads
+    subtitle: 'Gallery'
+  News: 
+    path: /news
+    subtitle: 'Get online, off the field'
+  Contact:
+    path: /mail
+    subtitle: 'This is the contact page'
+rss: /atom.xml
+
+header:
+  -
+    title: "Steady <span>growth</span> for your farm!"
+    subtitle: "Dairy generates direct source of income, direct employment and its by-product dung help in maintaining soil productivity and fertility."
+  -
+    title: "<span>Blend with Nature</span>"
+    subtitle: "Milk is a staple diet but Everyone Needs it and enjoyed throughout the world for thousands of years "
+  -
+    title: "<span>We Make You Smile</span>"
+    subtitle: "Dairy Society extends its support to the farmers"
+
+#Homepage
+
+homepage:
+  section1: 
+    title: "Dairy Co-operative Society"
+    subtitle: 
+      - "The spirit of Dairy Society in India is almost entirely based on the "
+      - "philosophy of co-operation."
+    body:
+      - "Co-operation means working together. The principle of co-operation is as old as the human society itself and working together in a team for attaining certain objectives. Modern cooperative societies in Kerala have the division of Primary (Dairy society), Regional, and Milma (State). In Kerala, dairy activity is developed on co-operative basis. The keen interest of state government and support of farmers are the main reasons for co-operative dairy development in Kerala. The dairy activity is now largely based upon a three tier system under which, the primary village cooperative societies are linked with Regional union and state federation which are guided by the Dairy Board of Kerala."
+      - "Dairying is an important source of subsidiary income to small/marginal farmers and agricultural labourers. The manure from animals provides a good source of organic matter for improving soil fertility and crop yields. The gober gas from the dung is used as fuel for domestic purposes as also for running engines for drawing water from well. The surplus fodder and agricultural by-products are gainfully utilised for feeding the animals. Almost all draught power for farm operations and transportation is supplied by bullocks. Since agriculture is mostly seasonal, there is a possibility of finding employment throughout the year for many persons through dairy farming. Thus, dairy also provides employment throughout the year. The main beneficiaries of dairy programmes are small/marginal farmers and landless labourers."
+
+  section2:
+    title:  "Our Services"
+    subtitle: 
+      - "Dairy Society provides general and exclusive services "
+      - "to the farmers."
+    body: 
+      - "Dairy society has milk collection centre either in an owned or hired premise. Each morning and evening, the milk producers bring milk in their own containers (stainless steel) to the society. A representative sample of milk is drawn for testing the quality milk. The test results are recorded against each sample number in the Fat Test Register. The society pays the pourers on a regular interval as per the decision of the managing committee. Besides regular payment of milk price, the society at the end of the year pays dividend on paid up share capital."
+      - "Society provides to its members the services like (a) Balanced cattle feed, (b) Fodder seeds of improved variety, (c) Services for animal health care, (d) Services for breeding of milch animals, (e) Patronage based portion of the surplus, (f) Contribute to village development."
+    services:
+      -
+        title: "Add info"
+        subtitle: "Add info"
+        img: "1.png"
+      -
+        title: "Add info"
+        subtitle: "Add info"
+        img: "2.png"
+      -
+        title: "Add info"
+        subtitle: "Add info"
+        img: "3.png"
+      -
+        title: "Add info"
+        subtitle: "Add info"
+        img: "4.png"
+  section3:
+    title: "Testimonials"
+    subtitle:
+      - "Add info"
+      - "Add info"
+    testimonial: "Add info"
+
+aboutpage:
+  section1:
+    title: "About us"
+    subtitle:
+      - "Add info"
+      - "Add info"
+    heading: "Add info"
+    subtitle2:
+      - "Add info"
+      - "Add info"
+    body: 
+      - "Add info"
+  section2:
+    title: "Our exclusive Activities"
+    leftheading: "Add info"
+    leftbody: 
+      - "Add info"
+      - "Add info"
+      - "Add info"
+    rightheading: "Add info"
+    rightbody: 
+      - "Add info"
+      - "Add info"
+      - "Add info"
+  members:
+    -
+      name: 'name'
+      desc: 'President, Mob no'
+      img: 'b7.jpg'
+    -
+      name: 'name'
+      desc: 'Secretary, Mob no'
+      img: 'b10.jpg'
+    
+
+  otherMembers:
+    title: 'our other Members'
+    subtitle:
+      - 'Add info'
+      - 'Add info'
+    memberlist:
+      -
+        name: 'name'
+        desc: 'Details'
+      -
+        name: 'name'
+        desc: 'Details'
+      -
+        name: 'name'
+        desc: 'Details'
+      -
+        name: 'name'
+        desc: 'Details'
+      -
+        name: 'name'
+        desc: 'Details'
+      -
+        name: 'name'
+        desc: 'Details'
+
+mediapage:
+  section1:
+    title: "Downloads"
+    subtitle:
+      - "Application forms, Reports, Circulars"
+      - "Notice etc"
+    files:
+      -
+        title: 'File title'
+        desc: 'Add info'
+        date: 'July 13th 2018'
+        file: 'file.pdf'
+      -
+        title: 'File title'
+        desc: 'Add info.'
+        date: 'Add date'
+        file: 'file.pdf'
+      -
+        title: 'File title'
+        desc: 'Add info.'
+        date: 'Add date'
+        file: 'file.pdf'
+      -
+        title: 'File title'
+        desc: 'Add info.'
+        date: 'Add date'
+        file: 'file.pdf'
+  section2:
+    title: "Recent Pictures"
+    subtitle:
+      - "Pictures of Various Programmes "
+      - "Click on"
+    images:
+    - '5.jpg'
+    - '6.jpg'
+    - '7.jpg'
+    - '8.jpg'
+    - '9.jpg'
+    - '10.jpg'
+    - '11.jpg'
+    - '12.jpg'
+    - '13.jpg'
+
+contactpage:
+  title: "Contact us"
+  subtitle:
+    - "Add info"
+    - "Add info"
+  address: 
+    title: "Headquarters"
+    addresslines:
+      - "123 T. Globel Place. "
+      - "Kozhikode, Kerala State"
+      - "India, Pin.673580 "
+  contact:
+    title: "Get In Touch"
+    contactlist:
+      - "Telephone: +1 234 567 9871 "
+      - "FAX: "
+      - "E-mail: mail@example.com"
+
+newspage:
+  title: "Activities"
+  subtitle:
+    - "Get online, off the field "
+    - "Read about our recent activities "
+
+footer:
+  address:
+    - "756 gt globel Place,"
+    - "Kozhikode, Kerala State."
+
+  phone:
+    - "+1(100)2345-6789"
+
+  subtitle: "Add info"
+
+  socialmedia:
+    twitter: "www.facebook.com"
+    facebook: "www.facebook.com"
+    chrome: "www.facebook.com"
+    linkedin: "www.facebook.com"
+    pinterest: "www.facebook.com"
+
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
